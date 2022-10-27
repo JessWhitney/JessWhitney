@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 
 <!---![me!](https://user-images.githubusercontent.com/115358717/198260600-58a3e9a9-6459-4517-94a3-785a27352a85.jpg)--->
 
-<img src="[drawing.jpg](https://user-images.githubusercontent.com/115358717/198260600-58a3e9a9-6459-4517-94a3-785a27352a85.jpg)" alt="me!" width="200"/>
+<img src="https://user-images.githubusercontent.com/115358717/198260600-58a3e9a9-6459-4517-94a3-785a27352a85.jpg" alt="me!" width="200"/>
