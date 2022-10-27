@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 👋 Hey everyone! My name is Jessica | 22 | she/her
 
 * I'm a first year PhD student at the Mullard Space Science Laboratory (MSSL) at University College London (UCL)
-* My project will focus on developing updated deep learning techniques on the sphere which will then be used to analyse astronomical data!
+* My project will focus on developing updated deep learning techniques on the sphere which will then be used to analyse cosmological data!
 
 
 📫 If you're looking to get in touch, reach out to me via my twitter (in my bio) :)
