@@ -3,7 +3,7 @@ JessWhitney/JessWhitney is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-##About Me
+**About Me**
 
 👋 Hey everyone! My name is Jessica | 22 | she/her
 
