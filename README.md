@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 * My project will focus on developing updated deep learning techniques on the sphere which will then be used to analyse astronomical data!
 
 
-📫 If you're looking to reach me, please find a link to my twitter on my bio.
+📫 If you're looking to get in touch, reach out to me via my twitter (in my bio) :)
 
 
 <img src="https://user-images.githubusercontent.com/115358717/198260600-58a3e9a9-6459-4517-94a3-785a27352a85.jpg" alt="me!" width="200"/>
