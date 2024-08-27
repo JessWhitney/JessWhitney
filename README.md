@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 **About Me**
 
-👋 Hey everyone! My name is Jessica | 23 | she/her
+👋 Hey everyone! My name is Jessica | 24 | she/her
 
 * I'm a PhD student at the Mullard Space Science Laboratory (MSSL) at University College London (UCL)
 * My current work is on using conditional generative adversarial networks to construct convergence maps
